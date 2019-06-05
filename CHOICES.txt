@@ -15,3 +15,5 @@ Sixth Choice: Listen in on what they're saying
 7th Choice: Approach Danny
 
 8th Choice: Approach Billy
+
+9th Choice: Talk to Billy directly
