@@ -19,3 +19,5 @@ Sixth Choice: Listen in on what they're saying
 9th Choice: Talk to Billy directly
 
 10th Choice: Approach Helga and the Doctor
+
+11th Choice: Talk to them directly
